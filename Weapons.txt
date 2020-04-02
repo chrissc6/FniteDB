@@ -1,0 +1,16 @@
+ID	
+WeaponType	
+Type	
+Name	
+RarityType	
+Rating	
+DPS	
+DamageB	
+DamageH	
+FireRate	
+MagazineSize	
+ReloadTime	
+StructureDamage	
+BulletType	
+BRStatus	
+VaultedStatus
